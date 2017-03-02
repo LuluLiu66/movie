@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>电影展示</title>
+    <link rel="stylesheet" type="text/css" href="assets/css/wap.css">
+    <link rel="stylesheet" href="assets/css/reset.css">
+</head>
+
+<body ng-app="moviecat">
+    <div class="top">
+        <div class="header" ng-controller="mainController">
+            <a href="#/home_page"><img src="assets/img/logo.png" alt=""></a>
+            <div class="search">
+                <form ng-submit="search()">
+                    <input ng-model="query" class="my-input" type="text" placeholder="电影搜索">
+                </form>
+                <button>搜索</button>
+            </div>
+        </div>
+        <nav class="nav">
+            <ul>
+                <!--li中添加 active 类样式，显示焦点状态。-->
+                <li auto-active class="active"><a href="#/home_page">首页</a></li>
+                <li auto-active><a href="#/in_theaters">正在热映</a></li>
+                <li auto-active><a href="#/coming_soon">即将上映</a></li>
+                <li auto-active><a href="#/top250">Top250</a></li>
+            </ul>
+        </nav>
+    </div>
+    <div class="container">
+
+        <div ng-view>
+
+        </div>
+
+        <!--其他-->
+    </div>
+    <footer class="footer">
+        <div class="container">
+            <p>版权所有&copy; 前端与移动开发学院 三期</p>
+        </div>
+    </footer>
+    <!-- 百各庄 -->
+    <script src="assets/js/prefixfree.min.js"></script>
+    <script src="../node_modules/angular/angular.js"></script>
+    <script src="../node_modules/angular-route/angular-route.js"></script>
+    <script src="app.js"></script>
+    <script src="home_page/home_page.js"></script>
+    <script src="movie_list/movie_list.js"></script>
+    <script src="services/http_jsonp.js"></script>
+    <script src="directives/auto_active.js"></script>
+    <script src="movie_detail/movie_detail.js"></script>
+</body>
+</html>

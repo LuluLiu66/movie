@@ -1,0 +1,29 @@
+<!--电影列表开始-->
+        <div class="list">
+            <ul>
+                <li ng-repeat="item in list">
+                    <a href="#/details/{{item.id}}">
+                        <img ng-src="{{item.images.large}}"  alt="">
+                    </a>
+                    <div class="meta">
+                        <h4><span>{{item.title}}</span> <em>{{item.rating.average}}分</em></h4>
+                        <div class="otherinfo">类型:<span ng-repeat="a in item.genres">{{a}}</span></div>
+                    </div>
+                </li>
+            </ul>
+            <div class="paging">
+                <label>总共：{{allCount}}条记录,第{{page}}/{{allPage}}页;</label>
+                <!-- 加上disable类样式，表示按钮禁用状态 -->
+                <button class="prev" ng-class="{'disable':page==1}"  ng-click="getPage(page-1)">上一页</button>
+                <button class="next" ng-class="{'disable':page==allPage}"  ng-click="getPage(page+1)">下一页</button>
+            </div>
+        </div>
+        <!--电影列表结束-->
+<div class="loading-box" ng-show="loading">
+    <div class="sk-folding-cube">
+      <div class="sk-cube1 sk-cube"></div>
+      <div class="sk-cube2 sk-cube"></div>
+      <div class="sk-cube4 sk-cube"></div>
+      <div class="sk-cube3 sk-cube"></div>
+    </div>
+</div>

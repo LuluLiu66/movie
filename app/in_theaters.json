@@ -1,0 +1,213 @@
+{
+  "count": 3,
+  "start": 1,
+  "total": 27,
+  "subjects": [
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "剧情",
+        "动作",
+        "奇幻"
+      ],
+      "title": "猎神：冬日之战",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1021959/",
+          "avatars": {
+            "small": "http://img3.douban.com/img/celebrity/small/4053.jpg",
+            "large": "http://img3.douban.com/img/celebrity/large/4053.jpg",
+            "medium": "http://img3.douban.com/img/celebrity/medium/4053.jpg"
+          },
+          "name": "克里斯·海姆斯沃斯",
+          "id": "1021959"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1000225/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/img/celebrity/small/54076.jpg",
+            "large": "http://img3.doubanio.com/img/celebrity/large/54076.jpg",
+            "medium": "http://img3.doubanio.com/img/celebrity/medium/54076.jpg"
+          },
+          "name": "杰西卡·查斯坦",
+          "id": "1000225"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1018991/",
+          "avatars": {
+            "small": "http://img3.douban.com/img/celebrity/small/44470.jpg",
+            "large": "http://img3.douban.com/img/celebrity/large/44470.jpg",
+            "medium": "http://img3.douban.com/img/celebrity/medium/44470.jpg"
+          },
+          "name": "查理兹·塞隆",
+          "id": "1018991"
+        }
+      ],
+      "collect_count": 456,
+      "original_title": "The Huntsman: Winter's War",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1036186/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/img/celebrity/small/1422530655.7.jpg",
+            "large": "http://img3.doubanio.com/img/celebrity/large/1422530655.7.jpg",
+            "medium": "http://img3.doubanio.com/img/celebrity/medium/1422530655.7.jpg"
+          },
+          "name": "塞德里克·萨科",
+          "id": "1036186"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "http://img3.douban.com/view/movie_poster_cover/ipst/public/p2326492532.jpg",
+        "large": "http://img3.douban.com/view/movie_poster_cover/lpst/public/p2326492532.jpg",
+        "medium": "http://img3.douban.com/view/movie_poster_cover/spst/public/p2326492532.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/10791575/",
+      "id": "10791575"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 0,
+        "stars": "00",
+        "min": 0
+      },
+      "genres": [
+        "爱情"
+      ],
+      "title": "谁的青春不迷茫",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1342133/",
+          "avatars": {
+            "small": "http://img3.douban.com/img/celebrity/small/1425027346.03.jpg",
+            "large": "http://img3.douban.com/img/celebrity/large/1425027346.03.jpg",
+            "medium": "http://img3.douban.com/img/celebrity/medium/1425027346.03.jpg"
+          },
+          "name": "白敬亭",
+          "id": "1342133"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1355324/",
+          "avatars": {
+            "small": "http://img3.douban.com/img/celebrity/small/1457012000.65.jpg",
+            "large": "http://img3.douban.com/img/celebrity/large/1457012000.65.jpg",
+            "medium": "http://img3.douban.com/img/celebrity/medium/1457012000.65.jpg"
+          },
+          "name": "郭姝彤",
+          "id": "1355324"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1355325/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/img/celebrity/small/1457012188.77.jpg",
+            "large": "http://img3.doubanio.com/img/celebrity/large/1457012188.77.jpg",
+            "medium": "http://img3.doubanio.com/img/celebrity/medium/1457012188.77.jpg"
+          },
+          "name": "李宏毅",
+          "id": "1355325"
+        }
+      ],
+      "collect_count": 346,
+      "original_title": "谁的青春不迷茫",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1324487/",
+          "avatars": {
+            "small": "http://img3.douban.com/img/celebrity/small/59253.jpg",
+            "large": "http://img3.douban.com/img/celebrity/large/59253.jpg",
+            "medium": "http://img3.douban.com/img/celebrity/medium/59253.jpg"
+          },
+          "name": "姚婷婷",
+          "id": "1324487"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2332755749.jpg",
+        "large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2332755749.jpg",
+        "medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2332755749.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/26290367/",
+      "id": "26290367"
+    },
+    {
+      "rating": {
+        "max": 10,
+        "average": 6.2,
+        "stars": "35",
+        "min": 0
+      },
+      "genres": [
+        "动作",
+        "犯罪",
+        "惊悚"
+      ],
+      "title": "伦敦陷落",
+      "casts": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1040500/",
+          "avatars": {
+            "small": "http://img3.doubanio.com/img/celebrity/small/406.jpg",
+            "large": "http://img3.doubanio.com/img/celebrity/large/406.jpg",
+            "medium": "http://img3.doubanio.com/img/celebrity/medium/406.jpg"
+          },
+          "name": "杰拉德·巴特勒",
+          "id": "1040500"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1053577/",
+          "avatars": {
+            "small": "http://img3.douban.com/img/celebrity/small/522.jpg",
+            "large": "http://img3.douban.com/img/celebrity/large/522.jpg",
+            "medium": "http://img3.douban.com/img/celebrity/medium/522.jpg"
+          },
+          "name": "艾伦·艾克哈特",
+          "id": "1053577"
+        },
+        {
+          "alt": "https://movie.douban.com/celebrity/1054534/",
+          "avatars": {
+            "small": "http://img3.douban.com/img/celebrity/small/34642.jpg",
+            "large": "http://img3.douban.com/img/celebrity/large/34642.jpg",
+            "medium": "http://img3.douban.com/img/celebrity/medium/34642.jpg"
+          },
+          "name": "摩根·弗里曼",
+          "id": "1054534"
+        }
+      ],
+      "collect_count": 24042,
+      "original_title": "London Has Fallen",
+      "subtype": "movie",
+      "directors": [
+        {
+          "alt": "https://movie.douban.com/celebrity/1317990/",
+          "avatars": {
+            "small": "http://img3.douban.com/img/celebrity/small/42004.jpg",
+            "large": "http://img3.douban.com/img/celebrity/large/42004.jpg",
+            "medium": "http://img3.douban.com/img/celebrity/medium/42004.jpg"
+          },
+          "name": "巴巴克·纳加非",
+          "id": "1317990"
+        }
+      ],
+      "year": "2016",
+      "images": {
+        "small": "http://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2325735117.jpg",
+        "large": "http://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2325735117.jpg",
+        "medium": "http://img3.doubanio.com/view/movie_poster_cover/spst/public/p2325735117.jpg"
+      },
+      "alt": "https://movie.douban.com/subject/25757186/",
+      "id": "25757186"
+    }
+  ],
+  "title": "正在上映的电影-北京"
+}
